@@ -1,0 +1,24 @@
+weight
+going
+id number
+details
+come by air/sea/rail/road
+dangerous (aerosol, etc)
+
+pallets
+
+sends data after every delivery
+
+delivered
+dispatched
+in storage
+
+parcel: route, barcode
+
+pallets:
+engines
+photocopiers
+socks
+cement mixers
+batteries
+oil drums
